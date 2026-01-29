@@ -1,0 +1,5 @@
+{
+  "name": "Shifttracker",
+  "description": "An enterprise-style portal for employees to track and manage their hybrid work shifts (WFO, WFH, HYBRID) using a calendar-based interface.",
+  "requestFramePermissions": []
+}
